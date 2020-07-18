@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>Welcome to Autos Database</title>
+<title>Welcome to Autos Database 98ff5000</title>
 <?php require_once "bootstrap.php"; ?>
 </head>
 <body>
